@@ -4,7 +4,7 @@ A modern, responsive portfolio website showcasing my skills, projects, and exper
 
 ## 🚀 Live Demo
 
-[View Portfolio](https://your-portfolio-url.com)
+[View Portfolio]( https://smdsuhail-portfolio.netlify.app/ )
 
 ## 📋 Table of Contents
 
